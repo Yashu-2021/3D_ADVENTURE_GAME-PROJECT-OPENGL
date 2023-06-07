@@ -1,0 +1,19 @@
+
+
+Adventure Island is a single player 3D adventure game written in C++, using openGl for rendering objects. 
+
+The adventure begins on a dreaded island surrounded by sea wherein you have to escape enemies such as spiders,sharks,falling fireballs and ghosts (during night time) and collect all the coins. Game is given a realistic touch using lighting, textures, shading, fog and different person views. 
+
+Following are the **controls**-
+
+- Arrow keys: Move the person forward,backward and sideways.
+- 'f' key: First person view
+- 'b' key: Third person view
+- 't' key: Tile view
+- 'p' key: Tower view
+- 'c' key: Helicopter view(Keyboard controlled)
+- 'v' key: Helicopter view(Mouse controlled)
+- 'h' key: Top view
+- 'w' 's' key: Move camera forward and backward
+- 'a' 'd' key: Rotate camera
+- 'j' key: Jump
